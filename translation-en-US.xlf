@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2071743106 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Activities</source>
+          <target>Activities</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warehouse Activities - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4228007559 - Control 1225278069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Customer No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order Status As on Date - Control Sell-to Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2047804193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Display Center</source>
+          <target>Display Center</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Showrooms - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4228007559 - Control 1474036805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order Status As on Date - Control Sell-to Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2047804193 - Control 3015522478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Name</source>
+          <target>Item Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Showrooms - Control ItemName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4228007559 - Control 1981213637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target>City</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order Status As on Date - Control Ship-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4228007559 - Control 709296807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Code</source>
+          <target>Post Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order Status As on Date - Control Sell-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4228007559 - Control 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Order No.</source>
+          <target>Customer Order No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Sales Order Status As on Date - Control External Document No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

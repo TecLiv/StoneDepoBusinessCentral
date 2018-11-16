@@ -1,0 +1,25 @@
+
+{
+  "id": "22736ce9-4ffc-4ec8-8f42-8dc18fb13e80",
+  "name": "StoneDepoOnline",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "DataImport utility added along with Stone Depo Customization",
+  "version": "2.0.0.5",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+  
+}
